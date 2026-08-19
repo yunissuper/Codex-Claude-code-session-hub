@@ -1,6 +1,6 @@
-# SessionHub 🚀
+# Codex-Claude-code-session-hub 🚀
 
-> **Visual Session Manager & Interactive WebUI for Claude Code & Codex CLI**
+> **A visual WebUI & workspace manager for Claude Code and Codex CLI sessions with full-text search, turn-based swimlanes, and one-click resume.**
 
 A lightweight, zero-dependency visual interface to browse, search, inspect, and resume your local **Claude Code** and **Codex** CLI sessions organized by project workspaces.
 
@@ -22,8 +22,8 @@ A lightweight, zero-dependency visual interface to browse, search, inspect, and 
 ### 1. Installation
 
 ```bash
-git clone https://github.com/<your-username>/session-hub.git
-cd session-hub
+git clone https://github.com/<your-username>/Codex-Claude-code-session-hub.git
+cd Codex-Claude-code-session-hub
 pip install -r requirements.txt
 ```
 
